@@ -1,0 +1,7 @@
+nav button{
+  margin: 10px;
+}
+
+.active{
+  color: rgb(165, 151, 151);
+}
